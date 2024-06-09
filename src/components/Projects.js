@@ -14,7 +14,10 @@ const Projects = () => {
   return (
     <div className="relative w-full py-4" id="projects">
       {/* Background image */}
-      <div className="absolute inset-0 bg-center object-fill blur py-8" style={{ backgroundImage: `url(${ProjectBack})` }} />
+      <div
+        className="absolute inset-0 bg-center object-fill blur py-8"
+        style={{ backgroundImage: `url(${ProjectBack})` }}
+      />
       {/* Content */}
       <div className="relative z-10 flex justify-center">
         <div className="text-center">
@@ -23,16 +26,26 @@ const Projects = () => {
           <div className="flex justify-around flex-wrap text-wrap gap-12 p-8">
             {projectsData.map((project, index) => (
               <div key={index} className="project-container w-60">
-                <img src={`${project.image}`} alt={`Project ${index + 1}`} className="object-fil rounded-lg h-40 hover:border-[0.3rem]" />
-                <h2 className="text-xl font-bold mt-4 text-white">{project.title}</h2>
+                <img
+                  src={`${project.image}`}
+                  alt={`Project ${index + 1}`}
+                  className="object-fil rounded-lg h-40 hover:border-[0.3rem]"
+                />
+                <h2 className="text-xl font-bold mt-4 text-white">
+                  {project.title}
+                </h2>
                 <p className="mt-2 text-gray-100 ">{project.description}</p>
                 <div className="flex justify-center mt-4">
-                  <button className="flex items-center bg-blue-500 text-white px-2 py-1 rounded hover:bg-blue-600 mr-4">
-                    <FaGithub className="mr-2" /> GitHub
-                  </button>
-                  <button className="flex items-center bg-blue-500 text-white px-2 py-1 rounded hover:bg-blue-600">
-                    <FaInfoCircle className="mr-2" /> Know More
-                  </button>
+                  <a href={project.github} target="_blank">
+                    <button className="flex items-center bg-blue-500 text-white px-2 py-1 rounded hover:bg-blue-600 mr-4">
+                      <FaGithub className="mr-2" /> GitHub
+                    </button>
+                  </a>
+                  <a href={project.knowMore} target="_blank">
+                    <button className="flex items-center bg-blue-500 text-white px-2 py-1 rounded hover:bg-blue-600">
+                      <FaInfoCircle className="mr-2" /> Know More
+                    </button>
+                  </a>
                 </div>
               </div>
             ))}

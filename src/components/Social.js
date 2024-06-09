@@ -1,52 +1,53 @@
 import React from 'react';
-import { FaLinkedinIn, FaGithub, FaPhoneAlt, FaEnvelope, FaWhatsapp } from 'react-icons/fa';
+import {
+  FaHackerrank,
+  FaLinkedinIn,
+  FaGithub,
+  FaPhoneAlt,
+  FaEnvelope,
+  FaWhatsapp,
+} from "react-icons/fa";
 // import data from './assets/data.json'; // Importing data from data.json
 
 const Social = () => {
   // const { linkedin, github, phone, email, whatsapp } = data[1]; // Destructuring social links from data
   const socialLinks = [
-    // {
-    //   "href": "https://facebook.com",
-    //   "icon": "FaFacebookF",
-    //   "bgColor": "bg-blue-600",
-    //   "hoverColor": "hover:bg-blue-700"
-    // },
-    // {
-    //   "href": "https://twitter.com",
-    //   "icon": "FaTwitter",
-    //   "bgColor": "bg-blue-400",
-    //   "hoverColor": "hover:bg-blue-500"
-    // },
     {
-      "href": "https://linkedin.com",
-      "icon": "FaLinkedinIn",
-      "bgColor": "bg-blue-700",
-      "hoverColor": "hover:bg-blue-800"
+      href: "https://www.linkedin.com/in/ravi-kumar-378a481a4/",
+      icon: "FaLinkedinIn",
+      bgColor: "bg-blue-700",
+      hoverColor: "hover:bg-blue-800",
     },
     {
-      "href": "https://github.com",
-      "icon": "FaGithub",
-      "bgColor": "bg-gray-800",
-      "hoverColor": "hover:bg-gray-900"
+      href: "https://github.com/ravi0js",
+      icon: "FaGithub",
+      bgColor: "bg-gray-800",
+      hoverColor: "hover:bg-gray-900",
     },
     {
-      "href": "tel:+1234567890",
-      "icon": "FaPhoneAlt",
-      "bgColor": "bg-green-600",
-      "hoverColor": "hover:bg-green-700"
+      href: "tel:+918873194455",
+      icon: "FaPhoneAlt",
+      bgColor: "bg-green-600",
+      hoverColor: "hover:bg-green-700",
     },
     {
-      "href": "mailto:example@example.com",
-      "icon": "FaEnvelope",
-      "bgColor": "bg-red-600",
-      "hoverColor": "hover:bg-red-700"
+      href: "mailto:ravi194455@gmail.com",
+      icon: "FaEnvelope",
+      bgColor: "bg-red-600",
+      hoverColor: "hover:bg-red-700",
     },
     {
-      "href": "https://wa.me/1234567890",
-      "icon": "FaWhatsapp",
-      "bgColor": "bg-green-500",
-      "hoverColor": "hover:bg-green-600"
-    }
+      href: "https://wa.me/8873194455",
+      icon: "FaWhatsapp",
+      bgColor: "bg-green-500",
+      hoverColor: "hover:bg-green-600",
+    },
+    {
+      href: "https://www.hackerrank.com/profile/ravi194455",
+      icon: "FaHackerrank",
+      bgColor: "bg-black",
+      hoverColor: "hover:bg-blue-800",
+    },
   ];
   const icons = {
     // FaFacebookF: <FaFacebookF size={24} />,
@@ -56,6 +57,7 @@ const Social = () => {
     FaPhoneAlt: <FaPhoneAlt size={24} />,
     FaEnvelope: <FaEnvelope size={24} />,
     FaWhatsapp: <FaWhatsapp size={24} />,
+    FaHackerrank: <FaHackerrank size={24} />
   };
 
   return (
