@@ -1,0 +1,30 @@
+[
+  {
+    "degree": "MCA",
+    "duration": "2021 - 2023",
+    "institution": "Central University of Karnataka, Kalaburagi - 585367",
+    "grade": "74.49 %",
+    "color":"blue"
+  },
+  {
+    "degree": "BCA",
+    "duration": "2016 - 2019",
+    "institution": "Babasaheb Bhim Rao Ambedkar University Muzaffarpur - 842001",
+    "grade": "73.75 %",
+    "color":"blue"
+  },
+  {
+    "degree": "I.Sc",
+    "duration": " 2014 - 2016",
+    "institution": "Adarsh Intermediate College, Sarai (Vaishali) - 844125",
+    "grade": "64.20 %",
+    "color":"blue"
+  },
+  {
+    "degree": "10th",
+    "duration": " 2014",
+    "institution": "High School Shambhupur Koari (Vaishali) - 844125",
+    "grade": "69.00 %",
+    "color":"blue"
+  }
+]

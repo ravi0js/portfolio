@@ -1,0 +1,31 @@
+[
+
+  {
+    "image": "https://res.cloudinary.com/dhxrdfio8/image/upload/v1714813551/m1yth7h5opb54deregbw.png",
+    "title": "Attendance Report",
+    "description": "Essential attendance management; automate data capture, generate reports. Web app creates employee attendance reports within set timeframe.",
+    "github": "#",
+    "knowMore": "#"
+  },
+  {
+    "image": "https://res.cloudinary.com/dhxrdfio8/image/upload/v1714813550/fp5hkpi52sgxiz7ybhvj.png",
+    "title": "NextCampus~Blog",
+    "description": "Platform for writers to publish diverse blog posts, connecting with wider audience; offers personal and professional benefits.",
+    "github": "#",
+    "knowMore": "#"
+  },
+    {
+    "image": "https://res.cloudinary.com/dhxrdfio8/image/upload/v1714813608/nsd6yrftwj2lzh7jmhan.png",
+    "title": "WEB for Department",
+    "description": "To developing dynamic website for the School Of Computer Science in Central University of Karnataka, Kadaganchi, Kalaburagi.",
+    "github": "https://github.com/Avi-Ravi/SCs_CUK.git",
+    "knowMore": "https://advice-generator-101.netlify.app/"
+  },
+   {
+    "image": "https://res.cloudinary.com/dhxrdfio8/image/upload/v1716358624/tokrqgutows1rzprycc0.png",
+    "title": "Applicant Tracking System",
+    "description": "ATS is a web-based application that helps to improve resumes by analyzing them against a desired job description.",
+    "github": "https://github.com/ravi0py/ATS.git",
+    "knowMore": "https://atsforjob.streamlit.app/"
+  }
+]

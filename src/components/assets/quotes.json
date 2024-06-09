@@ -1,0 +1,118 @@
+[
+    {
+        "quote": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.",
+        "author": "Steve Jobs"
+    },
+    {
+        "quote": "The question of whether computers can think is as irrelevant as the question of whether submarines can swim.",
+        "author": "Edsger W. Dijkstra"
+    },
+    {
+        "quote": "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
+        "author": "Edsger W. Dijkstra"
+    },
+    {
+        "quote": "Programming is a marathon, not a sprint. Pace yourself and keep moving forward.",
+        "author": "Galen Gruman"
+    },
+    {
+        "quote": "Without passion, you'll quickly find yourself overwhelmed by the sheer volume of work in software development.",
+        "author": "Cal Newport"
+    },
+    {
+        "quote": "The best way to predict the future is to invent it.",
+        "author": "Alan Kay"
+    },
+    {
+        "quote": "The most important thing in software development is to not always be clever but to be clear.",
+        "author": "Rob Pike"
+    },
+    {
+        "quote": "If you can't explain it simply, you don't understand it well enough.",
+        "author": "Albert Einstein"
+    },
+    {
+        "quote": "The purpose of software is to make the complex appear simple.",
+        "author": "Rob Pike"
+    },
+    {
+        "quote": "Sometimes the best attribute of a programmer is not how much they know but how much they are willing to learn.",
+        "author": "Joel Spolsky"
+    },
+    {
+        "quote": "You don’t have to be a genius to code. Just be a good person.",
+        "author": "Derek Jeter"
+    },
+    {
+        "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
+        "author": "Martin Golding"
+    },
+    {
+        "quote": "The function of good software is to make the complex appear to be simple.",
+        "author": "Grady Booch"
+    },
+    {
+        "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+        "author": "Harold Abelson"
+    },
+    {
+        "quote": "The best error message is the one that never shows up.",
+        "author": "Thomas Fuchs"
+    },
+    {
+        "quote": "The only way to learn a new programming language is by writing programs in it.",
+        "author": "Dennis Ritchie"
+    },
+    {
+        "quote": "First, solve the problem. Then, write the code.",
+        "author": "John Johnson"
+    },
+    {
+        "quote": "Code is like humor. When you have to explain it, it’s bad.",
+        "author": "Cory House"
+    },
+    {
+        "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+        "author": "Martin Fowler"
+    },
+    {
+        "quote": "I'm not a great programmer; I'm just a good programmer with great habits.",
+        "author": "Kent Beck"
+    },
+    {
+        "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+        "author": "Patrick McKenzie"
+    },
+    {
+        "quote": "Perl – The only language that looks the same before and after RSA encryption.",
+        "author": "Keith Bostic"
+    },
+    {
+        "quote": "The most important skill for a programmer is to learn how to learn.",
+        "author": "Khalid Hisham"
+    },
+    {
+        "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+        "author": "C.A.R. Hoare"
+    },
+    {
+        "quote": "Before software can be reusable it first has to be usable.",
+        "author": "Ralph Johnson"
+    },
+    {
+        "quote": "I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.",
+        "author": "Bill Gates"
+    },
+    {
+        "quote": "Good code is its own best documentation.",
+        "author": "Steve McConnell"
+    },
+    {
+        "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+        "author": "Alan Perlis"
+    },
+    {
+        "quote": "The most disastrous thing that you can ever learn is your first programming language.",
+        "author": "Alan Kay"
+    }
+]
