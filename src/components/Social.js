@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaFacebookF, FaTwitter, FaLinkedinIn, FaGithub, FaPhoneAlt, FaEnvelope, FaWhatsapp } from 'react-icons/fa';
+import { FaLinkedinIn, FaGithub, FaPhoneAlt, FaEnvelope, FaWhatsapp } from 'react-icons/fa';
 // import data from './assets/data.json'; // Importing data from data.json
 
 const Social = () => {
