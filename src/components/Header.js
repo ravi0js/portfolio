@@ -6,7 +6,7 @@ import data from './assets/data.json';
 import './assets/css/Header.css';
 
 function Header() {
-    const { name, bio } = data[0];
+    const { name, bio } = data;
     const handleDownloadResume = () => {
         const link = document.createElement('a');
         link.href = resumeFile;
