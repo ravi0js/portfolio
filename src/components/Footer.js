@@ -5,7 +5,7 @@ const Footer = () => {
       <div className='flex '>
 
       </div>
-      <p>&copy; {new Date().getFullYear()} Your Company Name</p>
+      <p>&copy; {new Date().getFullYear()} RAVI KUMAR</p>
     </footer>
   );
 };

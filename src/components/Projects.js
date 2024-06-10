@@ -41,7 +41,10 @@ const Projects = () => {
                       <FaGithub className="mr-2" /> GitHub
                     </button>
                   </a>
-                  <a href={project.knowMore} target="_blank">
+                  <a
+                    href={project.knowMore}
+                    target="_blank"
+                  >
                     <button className="flex items-center bg-blue-500 text-white px-2 py-1 rounded hover:bg-blue-600">
                       <FaInfoCircle className="mr-2" /> Know More
                     </button>

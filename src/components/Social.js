@@ -37,7 +37,7 @@ const Social = () => {
       hoverColor: "hover:bg-red-700",
     },
     {
-      href: "https://wa.me/8873194455",
+      href: "https://wa.me/+918873194455",
       icon: "FaWhatsapp",
       bgColor: "bg-green-500",
       hoverColor: "hover:bg-green-600",
