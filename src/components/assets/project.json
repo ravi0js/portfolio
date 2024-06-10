@@ -3,15 +3,29 @@
     {
     "image": "https://res.cloudinary.com/dhxrdfio8/image/upload/v1714813608/nsd6yrftwj2lzh7jmhan.png",
     "title": "Website For Department",
-    "description": "To developing dynamic website for the School Of Computer Science in Central University of Karnataka, Kadaganchi, Kalaburagi.",
+    "description": "To developing dynamic website for the School Of Computer Science in Central University of Karnataka, Kadaganchi.",
     "github": "https://github.com/Avi-Ravi/SCs_CUK.git",
     "knowMore": "https://github.com/Avi-Ravi/SCs_CUK/blob/master/Project%20Report%20(2).pdf"
   },
    {
     "image": "https://res.cloudinary.com/dhxrdfio8/image/upload/v1716358624/tokrqgutows1rzprycc0.png",
-    "title": "Applicant Tracking System",
+    "title": "ATS using python",
     "description": "ATS is a web-based application that helps to improve resumes by analyzing them against a desired job description.",
     "github": "https://github.com/ravi0py/ATS.git",
     "knowMore": "https://atsforjob.streamlit.app/"
+  },
+  {
+    "image": "https://res.cloudinary.com/dhxrdfio8/image/upload/v1717992959/o62unzs7pic19bnfck1c.png",
+    "title": "Product API's Access",
+    "description": "This project is a responsive product listing page built with Next.js, Tailwind CSS, and a mock API.",
+    "github": "https://github.com/ravi0js/product_listing.git",
+    "knowMore": "https://mock-api-product-listing.netlify.app/"
+  },
+  {
+    "image": "https://res.cloudinary.com/dhxrdfio8/image/upload/v1717992950/hipt15gf1q64yrjcvlsv.png",
+    "title": "Gobananas",
+    "description": "This is a React application that displays users and posts using Material-UI components and the DataGrid from @mui/x-data-grid.",
+    "github": "https://github.com/ravi0js/gobananas-app.git",
+    "knowMore": "https://gobananas-demo.netlify.app/"
   }
 ]

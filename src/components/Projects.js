@@ -36,15 +36,12 @@ const Projects = () => {
                 </h2>
                 <p className="mt-2 text-gray-100 ">{project.description}</p>
                 <div className="flex justify-center mt-4">
-                  <a href={project.github} target="_blank">
+                  <a href={project.github} target="_blank" rel="noreferrer">
                     <button className="flex items-center bg-blue-500 text-white px-2 py-1 rounded hover:bg-blue-600 mr-4">
                       <FaGithub className="mr-2" /> GitHub
                     </button>
                   </a>
-                  <a
-                    href={project.knowMore}
-                    target="_blank"
-                  >
+                  <a href={project.knowMore} target="_blank" rel="noreferrer">
                     <button className="flex items-center bg-blue-500 text-white px-2 py-1 rounded hover:bg-blue-600">
                       <FaInfoCircle className="mr-2" /> Know More
                     </button>
