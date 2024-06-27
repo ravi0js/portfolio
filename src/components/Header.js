@@ -17,7 +17,7 @@ const customStyles = {
     width: "80%",
     height: "80%",
     borderRadius: "10px",
-    zIndex: "1000",
+    zIndex: "1000"
   },
 };
 

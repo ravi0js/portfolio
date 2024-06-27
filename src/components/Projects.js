@@ -19,7 +19,7 @@ const Projects = () => {
         style={{ backgroundImage: `url(${ProjectBack})` }}
       />
       {/* Content */}
-      <div className="relative z-10 flex justify-center">
+      <div className="relative flex justify-center">
         <div className="text-center">
           <h1 className="text-3xl font-bold text-white py-10">Projects</h1>
           {/* Project cards */}
