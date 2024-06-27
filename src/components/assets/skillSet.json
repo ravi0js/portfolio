@@ -1,13 +1,12 @@
 [
-  { "skill": "HTML", "percentage": 80, "color": "#e34c26" },
-  { "skill": "CSS", "percentage": 75, "color": "#264de4" },
-  { "skill": "BOOTSTRAP", "percentage": 70, "color": "#563d7c" },
-  { "skill": "TAILWIND CSS", "percentage": 65, "color": "#38b2ac" },
+  { "skill": "HTML", "percentage": 95, "color": "#e34c26" },
+  { "skill": "CSS", "percentage": 89, "color": "#264de4" },
+  { "skill": "BOOTSTRAP", "percentage": 82, "color": "#563d7c" },
+  { "skill": "TAILWIND CSS", "percentage": 85, "color": "#38b2ac" },
   { "skill": "JAVASCRIPT", "percentage": 85, "color": "#f0db4f" },
   { "skill": "REACT", "percentage": 90, "color": "#61dafb" },
-  { "skill": "PHP", "percentage": 60, "color": "#8892bf" },
-  { "skill": "NODE", "percentage": 70, "color": "#68a063" },
-  { "skill": "MYSQL", "percentage": 75, "color": "#00758f" },
-  { "skill": "MONGODB", "percentage": 70, "color": "#13aa52" },
-  { "skill": "WORDPRESS", "percentage": 65, "color": "#21759b" }
+  { "skill": "PHP", "percentage": 80, "color": "#8892bf" },
+  { "skill": "NODE", "percentage": 87, "color": "#68a063" },
+  { "skill": "MYSQL", "percentage": 82, "color": "#00758f" },
+  { "skill": "MONGODB", "percentage": 81, "color": "#13aa52" }
 ]

@@ -36,9 +36,9 @@ const Contact = () => {
       return;
     }
 
-    const serviceID = 'serviceID';
-    const templateID = 'templateID';
-    const publicKey = 'publicKey';
+    const serviceID = "service_fylb2yx";
+    const templateID = "template_1wnp15j";
+    const publicKey = "sLD9ebDDnBEccLuT2";
 
     emailjs.sendForm(serviceID, templateID, form, publicKey)
       .then((response) => {
