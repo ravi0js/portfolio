@@ -15,7 +15,7 @@ const Projects = () => {
     <div className="relative w-full py-4" id="projects">
       {/* Background image */}
       <div
-        className="absolute inset-0 bg-center object-fill blur py-8"
+        className="absolute inset-0 bg-center bg-cover blur"
         style={{ backgroundImage: `url(${ProjectBack})` }}
       />
       {/* Content */}
