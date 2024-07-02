@@ -1,7 +1,7 @@
 import React from "react";
 import { FaHtml5, FaCss3Alt, FaBootstrap, FaCss3, FaJs, FaReact, FaPhp, FaNodeJs, FaDatabase, FaWordpress } from 'react-icons/fa';
 import skillSet from "./assets/skillSet.json";
-import skillBack from './assets/images/s4.jpg';
+import skillBack from './assets/images/s2.jpg';
 
 const Skills = () => {
   // Define an object to map skill names to their respective icons
@@ -27,7 +27,7 @@ const Skills = () => {
       {/* Skills */}
       <div className="relative p-8 rounded-lg shadow-lg dark:bg-gray-100">
         <div className="text-center mb-5">
-          <h1 className="text-2xl font-medium text-gray-100 dark:text-white ">Skills</h1>
+          <h1 className="text-3xl font-bold text-gray-100 dark:text-white ">Skills</h1>
         </div>
         <div className="gap-8 sm:grid sm:grid-cols-2 p-8">
           {skillSet.map((skill, index) => (
