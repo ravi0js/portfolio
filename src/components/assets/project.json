@@ -27,5 +27,19 @@
     "description": "This is a React application that displays users and posts using Material-UI components and the DataGrid from @mui/x-data-grid.",
     "github": "https://github.com/ravi0js/gobananas-app.git",
     "knowMore": "https://gobananas-demo.netlify.app/"
+  },
+  {
+    "image": "https://res.cloudinary.com/dhxrdfio8/image/upload/v1715834937/vyxhkmxqa6fzdznlph7s.png",
+    "title": "Random Advice Generator",
+    "description": "This project is a React component called AdviceCard to fetches random advice from an API.",
+    "github": "https://github.com/ravi0js/advice_generator.git",
+    "knowMore": "https://advice-generator-101.netlify.app/"
+  },
+  {
+    "image": "https://res.cloudinary.com/dhxrdfio8/image/upload/v1719940165/k4hivefs9suxmrtz7q0k.png",
+    "title": "Sorting Visualizer",
+    "description": "Sort The numbers of array in ascending or descending order by using different Methods",
+    "github": "https://github.com/ravi0js/sorting_visual.git",
+    "knowMore": "https://ravi0js.github.io/sorting_visual/"
   }
 ]

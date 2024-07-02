@@ -57,7 +57,7 @@ const Contact = () => {
   };
 
   return (
-    <section className="bg-blue-50 dark:bg-slate-800" id="contact">
+    <section className="" id="contact">
       <div className="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-2 lg:py-10">
         <div className="flex items-stretch justify-center">
           <div className="grid md:grid-cols-2">
