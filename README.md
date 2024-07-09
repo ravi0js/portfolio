@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I am a passionate developer and educator with experience in Python, web development, and database design. Below you'll find a summary of my professional experience, projects, skills, and contact information.
 
+![Profile Image](https://asset.cloudinary.com/dhxrdfio8/744708275ff3eab3cba366c8d8ef255b) <!-- Replace this URL with your image CDN link -->
+
 ## Work Experience
 
 ### Lecturer at KLE BCA Nagarbhavi, Bangalore
@@ -32,11 +34,37 @@ Welcome to my GitHub profile! I am a passionate developer and educator with expe
 
 ## Skills
 
-- **Languages:** Python (Proficient), Java, C
-- **Web Development:** Figma, HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Next.js
-- **Database:** MongoDB, MySQL
-- **Web Services:** AWS S3, Lambda, EC2, Cloudinary, APIs
-- **Developer Tools:** VS Code, Postman, Jupyter, Spyder, GitHub
+### Programming Languages
+- **Python** (Proficient)
+- **Java**
+- **C**
+
+### Web Development
+- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Next.js
+- **Design:** Figma
+
+### Backend Development
+- **Node.js**
+- **Express.js**
+- **PHP**
+
+### Databases
+- **MongoDB**
+- **MySQL**
+
+### Web Services
+- **AWS S3**
+- **AWS Lambda**
+- **AWS EC2**
+- **Cloudinary**
+- **APIs**
+
+### Developer Tools
+- **VS Code**
+- **Postman**
+- **Jupyter Notebook**
+- **Spyder**
+- **GitHub**
 
 ## Education
 
