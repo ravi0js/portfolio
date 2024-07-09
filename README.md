@@ -1,8 +1,7 @@
 # Ravi Kumar
 
 Welcome to my GitHub profile! I am a passionate developer and educator with experience in Python, web development, and database design. Below you'll find a summary of my professional experience, projects, skills, and contact information.
-
-![Profile Image](https://asset.cloudinary.com/dhxrdfio8/744708275ff3eab3cba366c8d8ef255b) <!-- Replace this URL with your image CDN link -->
+ <!-- Replace this URL with your image CDN link -->
 
 ## Work Experience
 
