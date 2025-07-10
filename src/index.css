@@ -1,0 +1,49 @@
+@import "tailwindcss";
+body {
+  @apply bg-gray-900 text-white;
+}
+
+.section {
+  @apply min-h-screen w-full;
+}
+.blog-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.blog-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+/* Read Article button transition */
+.read-article-btn {
+  transition: all 0.3s ease;
+}
+/* Certification slider transitions */
+.cert-slide {
+  transition: transform 0.5s ease, opacity 0.5s ease;
+}
+
+/* Navigation arrow hover effects */
+.nav-arrow:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px rgba(236, 72, 153, 0.5);
+}
+
+/* Active pagination dot */
+.pagination-dot.active {
+  box-shadow: 0 0 0 2px rgba(236, 72, 153, 0.3);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-800;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gradient-to-b from-purple-500 to-pink-500 rounded-full;
+}

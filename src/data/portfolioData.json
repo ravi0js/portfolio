@@ -1,0 +1,213 @@
+{
+  "profile": {
+    "name": "Ravi Kumar",
+    "title": "Full Stack Developer",
+    "email": "ravi194455@gmail.com",
+    "phone": "+918873194455",
+    "location": "India Banglore",
+    "socialLinks": [
+      {
+        "name": "github",
+        "url": "https://github.com/ravi0js"
+      },
+      {
+        "name": "twitter",
+        "url": "#"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ravi-kumar-378a481a4/"
+      },
+      {
+        "name": "reddit",
+        "url": "#"
+      }
+    ]
+  },
+  "about": {
+    "description": [
+      "I'm a backend-focused full-stack developer with 1+ year of experience building secure, scalable APIs, custom CRM systems, and integrating third-party platforms like Meta & Exotel using PHP, Laravel, and Slim Framework.",
+      "While my strength lies in backend logic and database handling, I also enjoy working with frontend tools like React to build seamless user interfaces. I believe in clean code, continuous learning, and solving real-world problems with technology."
+    ],
+    "skills": [
+      {
+        "name": "PHP",
+        "level": 90
+      },
+      {
+        "name": "Laravel",
+        "level": 85
+      },
+      {
+        "name": "MySQL & Query Optimization",
+        "level": 80
+      },
+      {
+        "name": "RESTful API Development",
+        "level": 85
+      },
+      {
+        "name": "Meta Graph API / Webhooks",
+        "level": 80
+      },
+      {
+        "name": "Exotel & Asterisk Integration",
+        "level": 75
+      },
+      {
+        "name": "React (Frontend Integration)",
+        "level": 70
+      },
+      {
+        "name": "Git & Version Control",
+        "level": 80
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Digital Think Technologies LLP",
+      "position": "Full Stack Developer",
+      "duration": "July 2023 - Present",
+      "responsibilities": [
+        "Designed and developed RESTful APIs using PHP, Slim, and Laravel for ERP systems",
+        "Integrated third-party platforms like Meta Graph API,Mcube, MagicBrick, Exotel, ...",
+        "Collaborated with frontend developers to connect APIs with React interfaces and ensure seamless data flow"
+      ],
+      "skills": [
+        "Asterisk",
+        "GraphQL",
+        "..."
+      ]
+    },
+    {
+      "company": "KLE BCA College, Nagarbhavi",
+      "position": "Lecturer",
+      "duration": "August 2023 - March 2024",
+      "responsibilities": [
+        "Taught undergraduate students core computer science subjects including DBMS, Web Programming, and Software Engineering",
+        "Guided students on final year academic projects and provided technical mentorship",
+        "Prepared course materials, assignments, and conducted lab sessions with practical hands-on training"
+      ],
+      "skills": [ "Web Programming", "Python","Project Management"]
+    },
+    {
+      "company": "Develearn Technologies Pvt. Ltd.",
+      "position": "Backend Developer Intern (Database Focus)",
+      "duration": "Jan 2025 - July 2025",
+      "responsibilities": [
+        "Created models for User, Blog, OTP verification, Roles, and Categories ensuring normalized and efficient data retrieval",
+        "Developed RESTful APIs for blog interaction including like, dislike, comment, share, and report functionalities",
+        "Built a robust email verification system using Nodemailer for secure OTP-based user authentication"
+      ],
+      "skills": [
+        "Node.js",
+        "TypeScript",
+        "Express.js",
+        "MongoDB",
+        "Mongoose",
+        "Nodemailer",
+        "Postman",
+        "JWT Authentication",
+        "REST APIs"
+      ]
+    }
+  ],
+  "projects":[
+  {
+    "title": "Website For Department",
+    "description": "Developed a dynamic website for the School of Computer Science at Central University of Karnataka.",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "image": "https://res.cloudinary.com/dhxrdfio8/image/upload/v1714813608/nsd6yrftwj2lzh7jmhan.png",
+    "demo": "https://github.com/Avi-Ravi/SCs_CUK/blob/master/Project%20Report%20(2).pdf",
+    "github": "https://github.com/Avi-Ravi/SCs_CUK"
+  },
+  {
+    "title": "ATS using Python",
+    "description": "A resume analyzer that scores resumes against job descriptions using NLP and a clean Streamlit UI.",
+    "tags": ["Python", "Streamlit", "NLP"],
+    "image": "https://res.cloudinary.com/dhxrdfio8/image/upload/v1716358624/tokrqgutows1rzprycc0.png",
+    "demo": "https://atsforjob.streamlit.app/",
+    "github": "https://github.com/ravi0py/ATS"
+  },
+  {
+    "title": "Product API's Access",
+    "description": "Responsive product listing page using Next.js and Tailwind CSS, connected to a mock API.",
+    "tags": ["Next.js", "Tailwind", "API"],
+    "image": "https://res.cloudinary.com/dhxrdfio8/image/upload/v1717992959/o62unzs7pic19bnfck1c.png",
+    "demo": "https://mock-api-product-listing.netlify.app/",
+    "github": "https://github.com/ravi0js/product_listing"
+  },
+  {
+    "title": "Gobananas",
+    "description": "React app that displays users and posts using MUI DataGrid and Material UI components.",
+    "tags": ["React", "Material-UI", "DataGrid"],
+    "image": "https://res.cloudinary.com/dhxrdfio8/image/upload/v1717992950/hipt15gf1q64yrjcvlsv.png",
+    "demo": "https://gobananas-demo.netlify.app/",
+    "github": "https://github.com/ravi0js/gobananas-app"
+  }
+]
+,
+  "visitorStats": {
+    "totalVisitors": 1248,
+    "monthlyVisitors": 1024,
+    "weeklyVisitors": 224,
+    "dailyVisitors": 48,
+    "countries": [
+      {
+        "name": "United States",
+        "count": 542,
+        "percentage": 43
+      },
+      {
+        "name": "United Kingdom",
+        "count": 231,
+        "percentage": 19
+      },
+      {
+        "name": "Germany",
+        "count": 187,
+        "percentage": 15
+      },
+      {
+        "name": "Canada",
+        "count": 124,
+        "percentage": 10
+      },
+      {
+        "name": "Others",
+        "count": 164,
+        "percentage": 13
+      }
+    ]
+  },
+  "blogs": [
+    {
+      "title": "isIdentifier() Function work proper in python?",
+      "excerpt": "isidentifier() function doesn’t work in case of keywords",
+      "date": "Jan 14, 2024",
+      "readTime": "1 min read",
+      "tags": [ "Python" ],
+      "image": "https://media.itsnicethat.com/original_images/COLLINS_MEDIUM_00.gif",
+      "url": "https://medium.com/@ravi194455/isidentifier-function-work-proper-in-python-10f520f91e60"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Subject Matter Expert",
+      "issuer": "Chegg India",
+      "date": "Jul 2023",
+      "credentialId": "2023/68286",
+      "image": "https://pbs.twimg.com/profile_images/1422452155772928004/tUR4DtGz_400x400.jpg",
+      "url": "#"
+    },
+    {
+      "title": "Machine Learning for Data Science using Python",
+      "issuer": "National Institute of Technology Warangal",
+      "date": "Aug 2022",
+      "credentialId": "NA",
+      "image": "https://www.nitw.ac.in/stuti/images/Picture2.png",
+      "url": "#"
+    }
+  ]
+}
